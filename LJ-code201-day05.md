@@ -1,4 +1,4 @@
-<h1>Code 201, Day 5<h1>
+<h1>Code 201, Day 5</h1>
  <p>
   Today marked the end of the first week of codeschool. So far I think everyone is making good progress, there are some minor adjustments that are planned to be implemented that will make certain areas of class more effective.
   </p>
